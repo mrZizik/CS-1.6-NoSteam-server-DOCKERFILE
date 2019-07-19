@@ -1,3 +1,5 @@
+Not working now. Base image is removed from dockerhub.
+
 # CS-1.6-NoSteam-server-DOCKERFILE
 ## How to use:
 ```shell=
